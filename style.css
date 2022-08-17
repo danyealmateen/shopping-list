@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(152, 82, 116);
+
+}
+
+#listOutput {
+    text-align: center;
+    color: beige;
+    font-size: 2rem;
+    margin-top: 24px;
+    display: block;
+    font-family: 'Bebas Neue', cursive;
+}
+
+#h1 {
+    color: beige;
+    font-size: 2rem;
+    margin: 24px;
+    display: block;
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+}
+
+#inputValue {
+    display: block;
+    font-size: 30.5px;
+    border: 5px solid darkgray;
+    border-radius: 5px;
+    background-color: bisque;
+    font-family: 'Bebas Neue', cursive;
+    margin: auto;
+    width: 90;
+    max-width: 600px;
+}
+
+#addBtn,
+#clearItems {
+    display: block;
+    font-size: 30px;
+    margin: auto;
+    margin-top: 16px;
+    border: 5px solid darkgray;
+    border-radius: 5px;
+    background: bisque;
+}
